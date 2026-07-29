@@ -9,4 +9,4 @@
 
 | Paper | Year | Venue | Research Area | Task | Code | Link | Status | My Rating |
 |--------|------|-------|---------------|------|------|------|--------|-----------|
-| Attention Is All You Need | 2017 | NeurIPS | NLP | Machine Translation | ✅ | [Paper](https://arxiv.org/abs/1706.03762) | ✅ Read | ⭐⭐⭐⭐⭐ |
+| Artificial intelligence for life sciences: A comprehensive guide and future trends | 2024 | The Innovation Life | AI | Life Science Applications | ✅ | [Paper](https://doi.org/10.59717/j.xinn-life.2024.100105) | 🔄 Reading | ⭐⭐⭐⭐⭐ |
