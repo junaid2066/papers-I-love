@@ -13,3 +13,4 @@
 | Brain Tumor Detection and Classification Using Deep Learning and Sine-Cosine Fitness Grey Wolf Optimization | 2023 | MDPI | AI | Medical Imaging | ✅ | [Paper](https://doi.org/10.3390/bioengineering10010018) | 📌 Planned | ⭐⭐⭐⭐ |
 | DeepHateExplainer: Explainable Hate Speech Detection in Under-resourced Bengali Language | 2021 | IEEE-DSAA | AI | HAte Speech Classification | ✅ | [Paper](https://ieeexplore.ieee.org/document/9564230) | 📌 Planned | ⭐⭐⭐ |
 | Multi-modal Hate Speech Detection using Machine Learning | 2021 | IEEE-BigData | AI | Hate Speech Classification | ✅ | [Paper](https://ieeexplore.ieee.org/document/9671955) | 📌 Planned | ⭐⭐⭐ |
+| Health-LLM: Personalized Retrieval-Augmented Disease Prediction System | 2025 | arXiv | AI | Health | ✅ | [Paper](https://arxiv.org/abs/2402.00746) | 📌 Planned | ⭐⭐⭐⭐ |
