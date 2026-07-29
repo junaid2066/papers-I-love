@@ -15,3 +15,4 @@
 | Multi-modal Hate Speech Detection using Machine Learning | 2021 | IEEE-BigData | AI | Hate Speech Classification | ✅ | [Paper](https://ieeexplore.ieee.org/document/9671955) | 📌 Planned | ⭐⭐⭐ |
 | Health-LLM: Personalized Retrieval-Augmented Disease Prediction System | 2025 | arXiv | AI | Health | ✅ | [Paper](https://arxiv.org/abs/2402.00746) | 📌 Planned | ⭐⭐⭐⭐ |
 | Duplicate image detection using deep learning modified SVM and k-NN classification method for multimedia application | 2025 | SpringerNAture | AI | NLP/CV | ✅ | [Paper](https://doi.org/10.1007/s00500-024-09756-2) | 📌 Planned | ⭐⭐⭐⭐ |
+| An Enhanced Transfer Learning-Based Hierarchical Ensemble Framework for Diabetic Retinopathy Identification and Multistage Classification | 2025 | SpringerNAture | AI | Medical Imaging | ✅ | [Paper](https://doi.org/10.1007/s13369-025-10827-1) | 📌 Planned | ⭐⭐⭐⭐ |
